@@ -1,0 +1,50 @@
+body {
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+  width: 1000px;
+  padding: 50px;
+  margin: auto;
+}
+.titolo{
+  color: white;
+  font-size: 30px;
+}
+.info{
+  border-top: solid white 3px;
+  margin-top: 2%;
+}
+.sez-1{
+  margin-top: 2%;
+}
+.non-lette{
+  color: white;
+  font-size: 30px;
+  margin-top: 5%;
+}
+.cerchio{
+  background-color: orange;
+  border-radius: 50%;
+  padding: 30px;
+}
+.email{
+  margin-top: 5%;
+  border-top: solid white 3px;
+  border-bottom: solid white 3px;
+}
+.ricevute{
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.riga{
+  background-color: lightgrey;
+  border:solid black 1px;
+}
+.testo{
+  color: grey;
+}
+footer{
+  color: white;
+  text-align: center;
+}
+.fine{
+  font-size: 30px;
+}
