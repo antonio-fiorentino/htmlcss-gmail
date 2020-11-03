@@ -1,0 +1,70 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+  width: 1000px;
+  padding: 50px;
+  margin: auto;
+}
+h1{
+  display: inline-block;
+}
+.titolo{
+  color: red;
+  font-size: 30px;
+}
+.info{
+  border-top: solid white 3px;
+  margin-top: 2%;
+}
+.sez-1{
+  margin-top: 2%;
+}
+.non-lette{
+  color: white;
+  font-size: 30px;
+  margin-top: 5%;
+}
+.cerchio{
+  background-color:	#00ff00;
+  border-radius: 50%;
+  padding: 20px;
+  color: #ffd700;
+}
+.email{
+  margin-top: 5%;
+  border-top: solid white 3px;
+  border-bottom: solid white 3px;
+}
+.ricevute{
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+.riga{
+  background-color: lightgrey;
+  border:solid black 1px;
+  padding-left: 1%;
+}
+.riga-ter{
+  background-color: white;
+  border:solid black 1px;
+  padding-left: 1%;
+}
+.riga-due{
+  background-color: salmon;
+  border:solid black 1px;
+  padding-left: 1%;
+}
+.testo{
+  color: grey;
+}
+footer{
+  color: white;
+  text-align: center;
+}
+.fine{
+  font-size: 30px;
+}
